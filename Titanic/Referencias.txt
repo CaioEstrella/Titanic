@@ -1,0 +1,2 @@
+LEGENDA DOS GRÁFICOS
+https://matplotlib.org/users/legend_guide.html#creating-artists-specifically-for-adding-to-the-legend-aka-proxy-artists
