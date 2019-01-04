@@ -1,2 +1,4 @@
-LEGENDA DOS GR¡FICOS
+LEGENDA DOS GR√ÅFICOS
 https://matplotlib.org/users/legend_guide.html#creating-artists-specifically-for-adding-to-the-legend-aka-proxy-artists
+
+https://medium.com/@carlosbaia/visualiza%C3%A7%C3%A3o-e-an%C3%A1lise-de-dados-811780fd0e9f
