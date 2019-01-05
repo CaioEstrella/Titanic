@@ -1,4 +1,11 @@
-LEGENDA DOS GRÁFICOS
-https://matplotlib.org/users/legend_guide.html#creating-artists-specifically-for-adding-to-the-legend-aka-proxy-artists
+######  Principais Referências Utilizadas:  ##########
 
-https://medium.com/@carlosbaia/visualiza%C3%A7%C3%A3o-e-an%C3%A1lise-de-dados-811780fd0e9f
+$$-->  https://medium.com/@carlosbaia/visualiza%C3%A7%C3%A3o-e-an%C3%A1lise-de-dados-811780fd0e9f
+
+$$-->  diversos threads em https://stackoverflow.com/
+
+$$-->  documentação do matplotlib. Como em: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.legend.html
+
+
+
+
